@@ -1,2 +1,7 @@
-NLTK
+streamlit
+pandas
+numpy
 yfinance
+nltk
+scikit-learn
+matplotlib
